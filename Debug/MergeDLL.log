@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Zac\source\repos\MergeDLL\MergeDLL\DLL.h(20,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Zac\source\repos\MergeDLL\MergeDLL\DLL.h(20,49): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Zac\source\repos\MergeDLL\MergeDLL\DLL.h(37): warning C4715:  'DLL::merge': not all control paths return a value
+  MergeDLL.vcxproj -> C:\Users\Zac\source\repos\MergeDLL\Debug\MergeDLL.exe

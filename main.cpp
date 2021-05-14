@@ -5,7 +5,7 @@ Merge DLL 10-1-2019
 This is a simple program to demonstrate a dynamically linked list with the ability to merge sort the litemLLs within the list alphabetically for the
 explicit purpose of an assignment for my CS1D Data Structures course.
 
-Repository: https://github.com/zacpeterson98/
+Repository: https://github.com/z-peterson/
 Website:	https://zacp.xyz/
 
 Copyright 2019 Zac Peterson
